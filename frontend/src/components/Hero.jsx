@@ -11,7 +11,7 @@ const Hero = () => {
                 <Card className='p-5 d-flex flex-column align-items-center hero-card bg-light w-75'>
                     <h1 className='text-center mb-4'>MERN Authentication </h1>
                     <p className='text-center mb-4'>
-                        This is some random mf text idek. 
+                        Welcome.
                     </p>
                     <div className='d-flex'>
                         <LinkContainer to={'/login'}>
